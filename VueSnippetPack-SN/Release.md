@@ -1,8 +1,8 @@
-﻿<div class="container">  
+﻿<div class="container">
 
 <div class="jumbotron">
 
-### Vue.js code snippets for Visual Studio 2022
+### Vue.js code snippets for Visual Studio
 
 <small>Supports all editions of Visual Studio. Please provide report issues. If you would like to have more snippets request request in Q & A.</small></div>
 
